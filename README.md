@@ -49,10 +49,11 @@ class IrisClassifier(nn.Module):
        
         #Include your code here
 
- #Initialize the Model, Loss Function, and Optimizer
+     #Initialize the Model, Loss Function, and Optimizer
 
- def train_model(model, train_loader, criterion, optimizer, epochs):
-    #Include your code here
+     def train_model(model, train_loader, criterion, optimizer, epochs):
+   
+     #Include your code here
 
 **Dataset Information**
 
