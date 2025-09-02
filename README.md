@@ -17,19 +17,19 @@ Include the neural network model diagram.
 
 **DESIGN STEPS**
 
-STEP 1:
+**STEP 1:**
 
 Write your own steps
 
-STEP 2:
+**STEP 2:**
 
-STEP 3:
+**STEP 3:**
 
-STEP 4:
+**STEP 4:**
 
-STEP 5:
+**STEP 5:**
 
-STEP 6:
+**STEP 6:**
 
 **PROGRAM**
 
@@ -49,7 +49,7 @@ class IrisClassifier(nn.Module):
        
         #Include your code here
 
-*# Initialize the Model, Loss Function, and Optimizer
+ #Initialize the Model, Loss Function, and Optimizer
 
 def train_model(model, train_loader, criterion, optimizer, epochs):
    
