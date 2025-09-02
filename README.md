@@ -38,18 +38,14 @@ STEP 6:
 **Register Number:**
 
 class IrisClassifier(nn.Module):
-    
-    def __init__(self, input_size):
-       
-        super(IrisClassifier, self).__init__()
+     def __init__(self, input_size):
+       super(IrisClassifier, self).__init__()
        
         #Include your code here
 
     def forward(self, x):
        
         #Include your code here
-
-
 
 # Initialize the Model, Loss Function, and Optimizer
 
