@@ -38,7 +38,9 @@ STEP 6:
 **Register Number:**
 
 class IrisClassifier(nn.Module):
+     
      def __init__(self, input_size):
+      
        super(IrisClassifier, self).__init__()
        
         #Include your code here
@@ -47,7 +49,7 @@ class IrisClassifier(nn.Module):
        
         #Include your code here
 
-# Initialize the Model, Loss Function, and Optimizer
+*# Initialize the Model, Loss Function, and Optimizer
 
 def train_model(model, train_loader, criterion, optimizer, epochs):
    
