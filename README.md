@@ -215,7 +215,7 @@ Training Loss, Validation Loss Vs Iteration Plot:
 
 
 **RESULT**
+
 Thus a neural network classification model is developed for the given dataset.
 
-Include your result here
 
